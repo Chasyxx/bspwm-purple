@@ -1,8 +1,4 @@
-# Dotfiles BSPWM theme
-
 Includes a .config folder. You can put all the needed files into your `~/.config` folder and edit them for your specific system.
-
-Note: the folder is called config, rename it to .config
 
 # Prerequisites
 * bspwm, a window manager
