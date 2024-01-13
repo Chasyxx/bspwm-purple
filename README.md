@@ -1,4 +1,4 @@
-# Dotfiles for my purple BSPWM theme
+# Dotfiles BSPWM theme
 
 Includes a .config folder. You can put all the needed files into your `~/.config` folder and edit them for your specific system.
 
